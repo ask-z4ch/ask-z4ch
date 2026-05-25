@@ -3,7 +3,7 @@
 I'm a developer focused on building robust, scalable applications. 
 
 ## 🚀 What I'm Working On
-* **[Cadence](Cadence)**: A smart academic coordination platform.
+* **[Cadence](https://github.com/ask-z4ch/Cadence)**: A smart academic coordination platform.
 
 ## 🛠️ Tech Stack
 * **Frontend:** React Native
