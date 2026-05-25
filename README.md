@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ask-z4ch/ask-z4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building robust, scalable applications. 
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+* **[Cadence](LINK_TO_YOUR_CADENCE_REPO_HERE)**: A smart academic coordination platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Frontend:** React Native
+* **Backend & Database:** Convex
+* **Language:** TypeScript
+
+## 🏅 Programs
+* GSSoC 2026 Participant
