@@ -8,7 +8,7 @@ I'm a developer focused on building robust, scalable applications.
 ## 🛠️ Tech Stack
 * **Frontend:** React Native
 * **Backend & Database:** Convex
-* **Language:** TypeScript
+* **Language:** C, Python, TypeScript
 
 ## 🏅 Programs
 * GSSoC 2026 Participant
